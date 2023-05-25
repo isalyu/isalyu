@@ -14,7 +14,7 @@
 ## :woman_technologist: All About Me
 
 ```yaml
-I'm Isa Lyubimova, and I'm currently a second year student majoring in mathematics with a minor in computer science. 
+Hey! I'm Isa, and I'm currently a third year student majoring in mathematics with a minor in computer science. 
 
 As could be expected, my main interests currently lie somewhere in the intersection of those two, namely, 
 data science and machine learning, but I am still constantly learning, exploring, and discovering new passions. 
