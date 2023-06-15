@@ -36,16 +36,4 @@ cooking, hiking, or just relaxing.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" html="html" width="45" height="45"/>
 </p>
 
-## 	:chart_with_upwards_trend: Stats
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=isalyu&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=isalyu&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=isalyu&show_icons=true" />
-</picture>
